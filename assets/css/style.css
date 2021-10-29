@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
 
 body{
-    background-image: url('/prova/assets/img/bg.png');
+    background-image: url('/assets/img/bg.png');
     background-attachment: fixed;
     background-position: center;
     background-size: 100%;
@@ -18,7 +18,7 @@ label{
 }
 
 .al-activate {
-    background-color: #503e2a !important;
+    background-color: #70573b !important;
     font-weight: bolder;
 }
 
