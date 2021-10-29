@@ -70,7 +70,7 @@ function processamento(){
     valorTotal.innerHTML =  "R$ " + calc;
     pagamento.innerHTML =  formaPagamento.value;
     pedido.innerHTML = pedidoProteina + ", " + acompanhamento1.value + ", " + acompanhamento2.value + " e " + pedidoBebida;
-    infoclt.innerHTML = nome.value + " " + sobrenome.value + ", " + "Rua " + rua.value + ", " + numero.value;
+    infoclt.innerHTML = nome.value + " " + sobrenome.value + ", " + "Rua " + rua.value + ", N° " + numero.value;
 
 
 
